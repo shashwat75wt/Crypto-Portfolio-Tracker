@@ -1,6 +1,3 @@
-Here’s your **detailed `README.md` file** covering everything, including APIs, setup, functionality, and flow of your **Crypto Portfolio Tracker Backend**.
-
----
 
 # 🚀 Crypto Portfolio Tracker - Backend API  
 
